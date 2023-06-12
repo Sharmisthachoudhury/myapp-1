@@ -1,4 +1,4 @@
 flask==2.2.2
 numpy==1.21.1
-sklearn==1.2.2  
+sklearn
 gunicorn==20.1.0
